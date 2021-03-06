@@ -9,36 +9,23 @@
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
 ## Team name
-⟹ Write the name of your Hackathon team here
+**_Jäger masters_**
 
 ## Category
-⟹ Write the name of the selected category
+**_The best enhancement to the Sitecore Admin (XP) for Content Editors & Marketers_**
+
+Appendix:
+**_Best use of Headless using JSS or .NET_**
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
+The pourpose of this module is to improve Content Approver experience while using Workbox.
 
-  - Module Purpose
-  - What problem was solved (if any)
-    - How does this module solve it
-
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+Content Approver can make faster decicion about items approval. This especialy important when they dealing with big amount of itema in workbox
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
 
 ⟹ [Replace this Video link](#video-link)
-
-
-
-## Pre-requisites and Dependencies
-
-⟹ Does your module rely on other Sitecore modules or frameworks?
-
-- List any dependencies
-- Or other modules that must be installed
-- Or services that must be enabled/configured
-
-_Remove this subsection if your entry does not have any prerequisites other than Sitecore_
 
 ## Installation instructions
 ⟹ Write a short clear step-wise instruction on how to install your module.  
