@@ -29,7 +29,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Docker", "_Docker", "{7A26
 		docker\docker-compose.yml = docker\docker-compose.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHackathon2021", "code\SitecoreHackathon2021.csproj", "{8CFBF433-A6FB-4063-B20E-B03BA12EA95F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreHackathon2021", "src\Project\code\SitecoreHackathon2021.csproj", "{8CFBF433-A6FB-4063-B20E-B03BA12EA95F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
