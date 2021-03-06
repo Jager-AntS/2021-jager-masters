@@ -8,6 +8,8 @@
 
 You can find a very good reference to Github flavoured markdown reference in [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you want something a bit more WYSIWYG for editing then could use [StackEdit](https://stackedit.io/app) which provides a more user friendly interface for generating the Markdown code. Those of you who are [VS Code fans](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview) can edit/preview directly in that interface too.
 
+We included 2 separeate improvements here. First is main module and second - just appendix.
+
 ## Team name
 **_Jäger masters_**
 
@@ -21,6 +23,9 @@ Appendix:
 The pourpose of this module is to improve Content Approver experience while using Workbox.
 
 Content Approver can make faster decicion about items approval. This especialy important when they dealing with big amount of itema in workbox
+
+Appendix:
+Just simple improvement for JSS solution that makes front-end developer life bit easier :-) while selecting pages in Lookup fields (Like Droplink or Multilist)
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
