@@ -40,9 +40,15 @@ Just simple improvement for JSS solution that makes front-end developer life bit
 
 
 ## Usage instructions
-Open launchpad and click on Extended Workbox tile
+Modify several Sample Items (or any other items which have workflow assigned) in 2nd (or more) version of item
+
+Go to launchpad and click on Extended Workbox tile
 
 ![Launchpad](docs/images/ExtendedWorkbox.PNG "Launchpad")
+
+In main workbox view you can see all fields which were changed per Item without oppening Diff window
+
+![Workbox](docs/images/Workbox.PNG "Workbox")
 
 Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
 
