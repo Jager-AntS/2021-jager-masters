@@ -14,7 +14,7 @@ Appendix:
 ## Description
 The pourpose of this module is to improve Content Approver experience while using Workbox.
 
-Content Approver can make faster decicion about items approval. This especialy important when they dealing with big amount of itema in workbox
+Content Approver can make faster decicion about items approval. This especialy important when they dealing with big amount of items in workbox
 
 Appendix:
 Just simple improvement for JSS solution that makes front-end developer life bit easier :-) while selecting pages in Lookup fields (Like Droplink or Multilist)
